@@ -12,4 +12,4 @@ Robotic-Arm from recycled materials
 * Breadboard
 * Jumper Wires
 
-**Click [here](https://imgur.com/RTZDB3x) for the wiring diagram 
+**Click [here](https://imgur.com/RTZDB3x) for the wiring diagram** 
